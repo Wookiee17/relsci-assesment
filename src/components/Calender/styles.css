@@ -1,0 +1,26 @@
+.date-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #00917c;
+  width: fit-content;
+  color: #e4deae;
+}
+
+.table-head {
+  padding: 8px;
+  color: #e4deae;
+}
+
+.table-data {
+  background-color: #00917c;
+  padding: 8px;
+  font-weight: 600;
+}
+
+.highlight {
+  font-weight: bolder;
+  color: black;
+  background-color: #e4deae;
+}
